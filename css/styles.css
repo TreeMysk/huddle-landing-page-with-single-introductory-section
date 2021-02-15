@@ -106,7 +106,7 @@ p{
 /***********************************************CLASS SELECTOR*******************************************/
 
 .container{
-    margin: 40px;
+    margin: 50px;
 }
 
 
@@ -123,11 +123,12 @@ p{
   }
 
 .img-width-100{
-    width: 100%;
+    width: 90%;
 }
 
 .img-logo{
-    width: 175px;
+    width: 250px;
+    padding-left: 45px;
 }
 
 .button-register {
